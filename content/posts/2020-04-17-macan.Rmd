@@ -16,5 +16,8 @@ capeeeek
 
 ```{r}
 mtcars
+
+summary(mtcars)
+
 ```
 
