@@ -1,4 +1,4 @@
-baseurl = "http://masdian.netlify.com"
+baseurl = "/"
 title = "johndoe"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 theme = "hugo-coder"
