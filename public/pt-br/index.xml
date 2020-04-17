@@ -20,32 +20,5 @@
       <description>Nada para ver aqui!</description>
     </item>
     
-    <item>
-      <title>Contato</title>
-      <link>/pt-br/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt-br/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>/pt-br/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt-br/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>/pt-br/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pt-br/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
   </channel>
 </rss>
