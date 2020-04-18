@@ -146,7 +146,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Namaku Riana Hadiana. Aku biasa dipanggil Dian. Agar tidak bias gender, aku lebih suka dipanggil Mas Dian</description>
+      <description>My name is Riana Hadiana and I am a data lover. I love making beautiful charts, the statistical programming language R, Stephen Chow, Real Racing 3, FIFA mobile, and something stupid like I love you. I studied Statistics (formal) and Computer Science (non-formal), finishing my master in 2019. I live in Serang and Lampung, Indonesia, with my job and my family.
+This blog is built with blogdown and Hugo, and deployed using github and Netlify.</description>
     </item>
     
     <item>
@@ -166,6 +167,24 @@ Follow the following steps:
       <guid>/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Skills and Tools Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markdown, Github, Linux
+Experience Freelance Data Engineer
+2015 - present
+Mathematics Teacher
+2010 - 2015
+Actuarial Officer
+2008 - 2009
+Book Editor
+2005 - 2008
+Education  IPB University - Master in Applied Statistics, 2019 Gadjah Mada University - Bachelor Degeree in Statistics, 2003  </description>
     </item>
     
     <item>

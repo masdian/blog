@@ -3,4 +3,6 @@ slug: about
 title: About
 ---
 
-Namaku Riana Hadiana. Aku biasa dipanggil **Dian**. Agar tidak bias *gender*, aku lebih suka dipanggil **Mas Dian**
+My name is Riana Hadiana and I am a data lover. I love making beautiful charts, the statistical programming language R, Stephen Chow, Real Racing 3, FIFA mobile, and something stupid like I love you. I studied Statistics (formal) and Computer Science (non-formal), finishing my master in 2019. I live in Serang and Lampung, Indonesia, with my job and my family.
+
+This blog is built with **blogdown** and **Hugo**, and deployed using **github** and **Netlify**.
