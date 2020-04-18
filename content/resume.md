@@ -28,5 +28,6 @@ Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markd
 
 ## Education
 
+- John Hopkins University - PhD in Data Science, 2025
 - IPB University - Master in Applied Statistics, 2019
 - Gadjah Mada University - Bachelor Degeree in Statistics, 2003
