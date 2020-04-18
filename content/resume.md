@@ -13,21 +13,21 @@ Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markd
 
 2015 - present
 
-**Mathematics Teacher**
+**Mathematics Teacher, SMA Sugar Group**
 
 2010 - 2015
 
-**Actuarial Officer**
+**Actuarial Officer, Zurich Insurance Indonesia**
 
 2008 - 2009
 
-**Book Editor**
+**Book Editor, PT Penerbit Erlangga**
 
-2005 - 2008
+2003 - 2008
 
 
 ## Education
 
-- John Hopkins University - PhD in Data Science, 2025
-- IPB University - Master in Applied Statistics, 2019
-- Gadjah Mada University - Bachelor Degeree in Statistics, 2003
+- John Hopkins University - PhD in **Data Science**, 2025 (**hopefully**)
+- IPB University - Master in **Applied Statistics**, 2019
+- Gadjah Mada University - Bachelor Degeree in **Statistics**, 2003

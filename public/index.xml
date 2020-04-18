@@ -30,13 +30,13 @@
     </item>
     
     <item>
-      <title>macan</title>
+      <title>Memecah Data dengan pwalk()</title>
       <link>/posts/macan/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/macan/</guid>
-      <description>capeeeek
-mtcars## mpg cyl disp hp drat wt qsec vs am gear carb## Mazda RX4 21.0 6 160.0 110 3.90 2.620 16.46 0 1 4 4## Mazda RX4 Wag 21.0 6 160.0 110 3.90 2.875 17.02 0 1 4 4## Datsun 710 22.8 4 108.0 93 3.85 2.320 18.61 1 1 4 1## Hornet 4 Drive 21.4 6 258.0 110 3.08 3.215 19.44 1 0 3 1## Hornet Sportabout 18.</description>
+      <description>Sebagai orang yang banyak berkecimpung dengan data, terkadang kita diminta untuk memecah sebuah tabel berdasarkan kategori yang ada pada sebuah peubah pada tabel tersebut dan menyimpannya sebagai file dengan format tertentu (misalnya csv) dalam suatu folder tertentu. Jika tabel yang kita punya tidak terlalu besar dan banyaknya kategori juga sedikit, maka kita bisa melakukan filter satu persatu atau filter dengan perulangan (looping) menggunakan for.
+Misalnya kita akan memecah tabel iris berdasarkan peubah Species, sehingga akan terbentuk 3 (tiga) buah tabel baru.</description>
     </item>
     
     <item>
@@ -146,8 +146,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Riana Hadiana and I am a data lover. I love making beautiful charts, the statistical programming language R, Stephen Chow, Real Racing 3, FIFA mobile, and something stupid like I love you. I studied Statistics (formal) and Computer Science (non-formal), finishing my master in 2019. I live in Serang and Lampung, Indonesia, with my job and my family.
-This blog is built with blogdown and Hugo, and deployed using github and Netlify.</description>
+      <description>My name is Riana Hadiana and I am a data lover. I love making beautiful charts, the statistical programming language R, soccer, futsal, Stephen Chow, Real Racing 3, FIFA mobile, and something stupid like I love you. I studied Statistics (formal) and Computer Science (non-formal), finishing my master in 2019. I live in Serang and Lampung, Indonesia, with my job and my family.
+This blog is built with blogdown and Hugo.</description>
     </item>
     
     <item>
@@ -178,13 +178,13 @@ pwd </description>
       <description>Skills and Tools Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markdown, Github, Linux
 Experience Freelance Data Engineer
 2015 - present
-Mathematics Teacher
+Mathematics Teacher, SMA Sugar Group
 2010 - 2015
-Actuarial Officer
+Actuarial Officer, Zurich Insurance Indonesia
 2008 - 2009
-Book Editor
-2005 - 2008
-Education  John Hopkins University - PhD in Data Science, 2025 IPB University - Master in Applied Statistics, 2019 Gadjah Mada University - Bachelor Degeree in Statistics, 2003  </description>
+Book Editor, PT Penerbit Erlangga
+2003 - 2008
+Education  John Hopkins University - PhD in Data Science, 2025 (hopefully) IPB University - Master in Applied Statistics, 2019 Gadjah Mada University - Bachelor Degeree in Statistics, 2003  </description>
     </item>
     
     <item>

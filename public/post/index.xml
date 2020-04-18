@@ -21,13 +21,13 @@
     </item>
     
     <item>
-      <title>macan</title>
+      <title>Memecah Data dengan pwalk()</title>
       <link>/posts/macan/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/macan/</guid>
-      <description>capeeeek
-mtcars## mpg cyl disp hp drat wt qsec vs am gear carb## Mazda RX4 21.0 6 160.0 110 3.90 2.620 16.46 0 1 4 4## Mazda RX4 Wag 21.0 6 160.0 110 3.90 2.875 17.02 0 1 4 4## Datsun 710 22.8 4 108.0 93 3.85 2.320 18.61 1 1 4 1## Hornet 4 Drive 21.4 6 258.0 110 3.08 3.215 19.44 1 0 3 1## Hornet Sportabout 18.</description>
+      <description>Sebagai orang yang banyak berkecimpung dengan data, terkadang kita diminta untuk memecah sebuah tabel berdasarkan kategori yang ada pada sebuah peubah pada tabel tersebut dan menyimpannya sebagai file dengan format tertentu (misalnya csv) dalam suatu folder tertentu. Jika tabel yang kita punya tidak terlalu besar dan banyaknya kategori juga sedikit, maka kita bisa melakukan filter satu persatu atau filter dengan perulangan (looping) menggunakan for.
+Misalnya kita akan memecah tabel iris berdasarkan peubah Species, sehingga akan terbentuk 3 (tiga) buah tabel baru.</description>
     </item>
     
     <item>
