@@ -58,5 +58,5 @@ list.files("~Desktop/Split")
 ```{r, echo=F}
 list.files("C:/Users/masdi/Desktop/Split")
 ```
-
+Bagaimana? Efisien kan?
 

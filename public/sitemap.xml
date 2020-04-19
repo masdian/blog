@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/working-smarter-not-harder/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects/covid-19-dashboard/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/macan/</loc>
-    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   

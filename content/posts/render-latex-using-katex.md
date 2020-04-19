@@ -16,7 +16,7 @@ katex = "true"
 +++
 ```
 
-If you want to enable KaTeX or MathJax for all post, add `katex = ture` or `math = true` in `config.toml` in `[params]` section.
+If you want to enable KaTeX or MathJax for all post, add `katex = true` or `math = true` in `config.toml` in `[params]` section.
 
 It's almost a dropin alternative to the mathjax solution,you should just choose one of them.  
 
@@ -37,4 +37,8 @@ $$
 
 $$
 \sum_{n=1}^{\infty} 2^{-n} = 1
+$$
+
+$$
+f(x)=2x+\sum_{n=1}^{\infty} n/(n-1)
 $$

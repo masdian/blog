@@ -18,10 +18,10 @@
       
       <guid>/posts/render-latex-using-katex/</guid>
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
++++katex = &amp;#34;true&amp;#34;+++If you want to enable KaTeX or MathJax for all post, add katex = true or math = true in config.toml in [params] section.
 It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
     </item>
     
     <item>

@@ -13,13 +13,13 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "masdian"
 
 [params]
     author = "Riana Hadiana"
     description = "Riana Hadiana's personal website"
     keywords = "data science,personal"
-    info = "Naughty R Programmer"
+    info = "R Lover"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "Enter a text here."

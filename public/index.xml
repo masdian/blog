@@ -6,10 +6,21 @@
     <description>Recent content on masdian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working Smarter, not Harder</title>
+      <link>/posts/working-smarter-not-harder/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/working-smarter-not-harder/</guid>
+      <description>count()
+Pengguna R saat ini tentu sangat bersyukur karena dimanjakan oleh banyak sekali kemudahan ketika menggunakan R untuk berbagai keperluan. Salah satu kemudahan yang didapat oleh pengguna R adalah kemudahan dalam melakukan manipulasi data dengan menggunakan package tidyverse. Bagi yang terbiasa menggunakan SQL, tentu tidak akan kesulitan dalam melakukan manipulasi data dengan tidyverse. Tulisan kali ini akan mengulas sedikit tentang manipulasi data menggunakan R.
+Data yang akan digunakan adalah data penghasilan (income) yang diambil dari database Biro Sensus Amerika Serikat tahun 1994 oleh Ronny Kohavi dan Barry Becker (Data Mining and Visualization, Silicon Graphics).</description>
+    </item>
     
     <item>
       <title>Covid-19 Dashboard</title>
@@ -46,10 +57,10 @@ Misalnya kita akan memecah tabel iris berdasarkan peubah Species, sehingga akan 
       
       <guid>/posts/render-latex-using-katex/</guid>
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
-+++ katex = &amp;#34;true&amp;#34; +++ If you want to enable KaTeX or MathJax for all post, add katex = ture or math = true in config.toml in [params] section.
++++katex = &amp;#34;true&amp;#34;+++If you want to enable KaTeX or MathJax for all post, add katex = true or math = true in config.toml in [params] section.
 It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$</description>
     </item>
     
     <item>
@@ -156,7 +167,7 @@ This blog is built with blogdown and Hugo.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Follow aku di Twitter ya - @rianahadiana.</description>
+      <description>Fast response at Twitter - @rianahadiana.</description>
     </item>
     
     <item>
