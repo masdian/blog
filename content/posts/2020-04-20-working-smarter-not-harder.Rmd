@@ -42,7 +42,7 @@ income %>%
   arrange(desc(total_hours))
 ```
 
-Karena terdapat `NA` pada peubah `country`, maka **R** menampilkan pesan kesalahan (*error*) sekaligus saran perbaikannya. Berikut adalah sintaks untuk mengatasi masalah tersebut.
+Karena terdapat `NA` pada peubah `country`, maka **R** menampilkan pesan (*WARNING*) sekaligus saran perbaikannya. Berikut adalah sintaks untuk mengatasi masalah tersebut.
 
 ```{r}
 income$country <- fct_explicit_na(income$country)

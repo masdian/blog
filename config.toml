@@ -22,7 +22,7 @@ disqusShortname = "masdian"
     info = "R Lover"
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    #footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
 
@@ -77,7 +77,7 @@ disqusShortname = "masdian"
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/rianahadiana/"
+    url = "https://www.linkedin.com/in/masdian/"
 
 
 [languages]

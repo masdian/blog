@@ -174,7 +174,7 @@ library(broom)</code></pre>
 ##  9 Male   Germany              3487
 ## 10 Male   Canada               3360
 ## # ... with 73 more rows</code></pre>
-<p>Karena terdapat <code>NA</code> pada peubah <code>country</code>, maka <strong>R</strong> menampilkan pesan kesalahan (<em>error</em>) sekaligus saran perbaikannya. Berikut adalah sintaks untuk mengatasi masalah tersebut.</p>
+<p>Karena terdapat <code>NA</code> pada peubah <code>country</code>, maka <strong>R</strong> menampilkan pesan (<em>WARNING</em>) sekaligus saran perbaikannya. Berikut adalah sintaks untuk mengatasi masalah tersebut.</p>
 <pre class="r"><code>income$country &lt;- fct_explicit_na(income$country)</code></pre>
 <p>Setelah dilakukan perbaikan, maka tidak ada lagi pesan kesalahan dan tampilan tabel baru tersebut adalah sebagai berikut.</p>
 <pre><code>## # A tibble: 83 x 3
@@ -251,8 +251,6 @@ library(broom)</code></pre>
       
   <footer class="footer">
     <section class="container">
-      
-        <p>Enter a text here.</p>
       
       
         ©
