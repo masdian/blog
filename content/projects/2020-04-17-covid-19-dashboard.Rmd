@@ -7,6 +7,6 @@ categories: []
 tags: []
 ---
 
-Visit Covid-19 static dashboard at [**masdian.xyz**](https://masdian.xyz/){target="_blank"}
+Visit Covid-19 static dashboard at [**masdian.github.io**](https://masdian.github.io/){target="_blank"}
 
 ![](/projects/2020-04-17-covid-19-dashboard_files/covid-dashboard.JPG)
