@@ -9,21 +9,13 @@ Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markd
 
 ## Experience
 
-**Freelance Data Engineer**
+- **Freelance Data Engineer** (2015 - present)
 
-2015 - present
+- **Mathematics Teacher, SMA Sugar Group** (2010 - 2015)
 
-**Mathematics Teacher, SMA Sugar Group**
+- **Actuarial Officer, Zurich Insurance Indonesia** (2008 - 2009)
 
-2010 - 2015
-
-**Actuarial Officer, Zurich Insurance Indonesia**
-
-2008 - 2009
-
-**Book Editor, PT Penerbit Erlangga**
-
-2003 - 2008
+- **Book Editor, PT Penerbit Erlangga** (2003 - 2008)
 
 
 ## Education
