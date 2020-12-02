@@ -20,6 +20,6 @@ Machine learning, statistical modeling, data analysis, R, SQL, Markdown, R Markd
 
 ## Education
 
-- XXX University - PhD in **Data Science**, 2025 (**hopefully**)
+- XXX University - Ph.D in **Data Science**, 2025 (**hopefully**)
 - IPB University - Master in **Applied Statistics**, 2019
 - Gadjah Mada University - Bachelor Degeree in **Statistics**, 2003

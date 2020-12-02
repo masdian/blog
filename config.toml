@@ -104,7 +104,8 @@ disqusShortname = "masdian"
             [[languages.en.menu.main]]
             name = "Resume"
             weight = 4
-            url = "resume/"
+            #url = "resume/"
+            url = "https://masdian.github.io/CV/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
